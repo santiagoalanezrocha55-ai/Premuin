@@ -1,15 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_asplur.png" group-title="26",13tv
-https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_asplur.png" group-title="premiun",hbo
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-hbo_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_defensor.png" group-title="Entretenimiento",defensor tv
-https://59d39900ebfb8.streamlock.net/Defensor/Defensor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_defensor.png" group-title="premuin",hbo2
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-hbo2_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_telefe.png" group-title="Entretenimiento",telefe hd (Opcion 2)
-https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_telefe.png" group-title="premiun",hbo plus
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-hboplus_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_teleestrella.png" group-title="Entretenimiento",tele estrella (720p)
-https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_teleestrella.png" group-title="premiun",hbo xtreme
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-hboxtreme_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="Entretenimiento",fat tv
-https://srt.tvdatta.com/faphd/index.m3u8
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premuin",hbo family
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-hbofamily_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premuin",cinemax
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-cinemax_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premuin",space
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-space_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premuin",tnt
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-tnt_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premuin",sony
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-sony_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premuin",universal
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-universal_720.m3u8
