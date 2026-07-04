@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_asplur.png" group-title="26",13tv
+https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_defensor.png" group-title="Entretenimiento",defensor tv
+https://59d39900ebfb8.streamlock.net/Defensor/Defensor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_telefe.png" group-title="Entretenimiento",telefe hd (Opcion 2)
+https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_teleestrella.png" group-title="Entretenimiento",tele estrella (720p)
+https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="Entretenimiento",fat tv
+https://srt.tvdatta.com/faphd/index.m3u8
