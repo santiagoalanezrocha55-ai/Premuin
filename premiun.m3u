@@ -11,20 +11,20 @@ http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-hboplus_720.
 #EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_teleestrella.png" group-title="premiun",hbo xtreme
 http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-hboxtreme_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premuin",hbo family
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premiun",hbo family
 http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-hbofamily_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premuin",cinemax
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premiun",cinemax
 http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-cinemax_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premuin",space
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premiun",space
 http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-space_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premuin",tnt
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premiun",tnt
 http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-tnt_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premuin",sony
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premiun",sony
 http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-sony_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premuin",universal
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="premiun",universal
 http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-universal_720.m3u8
